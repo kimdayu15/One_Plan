@@ -8,17 +8,13 @@ One Plan is a simple and efficient task management app 📝 designed using the s
 - ⏳ Set deadlines and ⬆️ priorities  
 - 📂 Organize tasks by categories  
 - 🎨 User-friendly interface  
-- 💾 Persistent storage for saved tasks  
-
-## 🚀 Installation  
-
-1. Clone the repository:  
-   ```sh
-   git clone https://github.com/yourusername/one-plan.git
-2. Open the project in your preferred IDE.
-3. Build and run the application on your device or emulator.
+- 💾 Persistent storage for saved tasks
+- 
 🛠 Technologies Used
 
 ⚙️ Kotlin
 🎨 Jetpack Compose
 🏛️ Room Database
+
+📧 Contact
+For any questions or feedback, reach out via donoxojanazarova3@gmail.com.
